@@ -1,8 +1,5 @@
-#word guessing game 
-
-
 import random
-HELLO
+
 # List of words for the game
 words = ['python', 'developer', 'code', 'program', 'algorithm', 'function', 'variable', 'debug']
 
@@ -44,4 +41,4 @@ def play_game():
 # Start the game
 play_game()
 
-Its a beautiful world!!!!!
+Tee
